@@ -1,73 +1,87 @@
 {
-    "arabica": [
-        {
-            "foto": "images/produk/product_capuchino.jpg",
-            "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
-            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_espresso.jpg",
-            "nama": "Pahit Arabica",
-            "size": "100 Gram",
-            "harga": "100.000",
-            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Arabica",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
-        }
-    ],
-    "robusta": [
-        {
-            "foto": "images/produk/product_kopi_susu.jpg",
-            "nama": "Kopsus Robusta",
-            "size": "100 Gram",
-            "harga": "500.000",
-            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
-        },
-        {
-            "foto": "images/produk/product_latte.jpg",
-            "nama": "Latte Robusta",
-            "size": "150 Gram",
-            "harga": "150.000",
-            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
-        }
-    ],
-        "nonkopi": [
-        {
-            "foto": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg",
-            "nama": "Thai tea",
-            "size": "100 Gram",
-            "harga": "40.000",
-            "link": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg"
-        },
-        {
-            "foto": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg",
-            "nama": "Es Dawet",
-            "size": "150 Gram",
-            "harga": "30.000",
-            "link": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg"
-        }
-    ],
-            "makanan": [
-        {
-            "foto": "http://4.bp.blogspot.com/-JgNfUwMgqRw/VbjRmRPIdLI/AAAAAAAAEcE/NflHjdGXKS4/s1600/IMG_3660.JPG",
-            "nama": "Ayam Geprek",
-            "size": "100 Gram",
-            "harga": "40.000",
-            "link": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg"
-        },
-        {
-            "foto": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg",
-            "nama": "Es Dawet",
-            "size": "150 Gram",
-            "harga": "30.000",
-            "link": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg"
-        }
-    ]
+  "arabica": [
+    {
+      "foto": "images/produk/product_capuchino.jpg",
+      "nama": "Cappuccino Arabica",
+      "size": "500 Gram",
+      "harga": "200.000",
+      "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_espresso.jpg",
+      "nama": "Pahit Arabica",
+      "size": "100 Gram",
+      "harga": "100.000",
+      "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Arabica",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+    }
+  ],
+  "robusta": [
+    {
+      "foto": "images/produk/product_kopi_susu.jpg",
+      "nama": "Kopsus Robusta",
+      "size": "100 Gram",
+      "harga": "500.000",
+      "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+    },
+    {
+      "foto": "images/produk/product_latte.jpg",
+      "nama": "Latte Robusta",
+      "size": "150 Gram",
+      "harga": "150.000",
+      "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+    }
+  ],
+  "nonkopi": [
+    {
+      "foto": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg",
+      "nama": "Thai tea",
+      "size": "100 Gram",
+      "harga": "40.000",
+      "link": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg"
+    },
+    {
+      "foto": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg",
+      "nama": "Es Dawet",
+      "size": "600 ML",
+      "harga": "30.000",
+      "link": "http://www.theboxsceneproject.org/wp-content/uploads/2018/01/Resep-Es-Dawet-Ayu-Segar-dan-Nikmat.jpg"
+    },
+    {
+      "foto": "https://shop.hypermart.co.id/hypermart/uploads/documents/37121249-AQUA-AIR-MINERAL-BTL-600-ML.jpg",
+      "nama": "Es Dawet",
+      "size": "600 ML",
+      "harga": "10.000",
+      "link": "https://shop.hypermart.co.id/hypermart/uploads/documents/37121249-AQUA-AIR-MINERAL-BTL-600-ML.jpg"
+    }
+  ],
+  "makanan": [
+    {
+      "foto": "http://4.bp.blogspot.com/-JgNfUwMgqRw/VbjRmRPIdLI/AAAAAAAAEcE/NflHjdGXKS4/s1600/IMG_3660.JPG",
+      "nama": "Ayam Geprek",
+      "size": "100 Gram",
+      "harga": "40.000",
+      "link": "https://www.aimeemars.com/wp-content/uploads/2020/06/IMG_0776.jpg"
+    },
+    {
+      "foto": "http://1.bp.blogspot.com/-QtmYi1qB70g/TxtZCdyqSfI/AAAAAAAAF3w/MfQsGHbUJLU/s1600/Nasi+Goreng+%25283%2529.JPG",
+      "nama": "Nasi Goreng",
+      "size": "150 Gram",
+      "harga": "30.000",
+      "link": "http://1.bp.blogspot.com/-QtmYi1qB70g/TxtZCdyqSfI/AAAAAAAAF3w/MfQsGHbUJLU/s1600/Nasi+Goreng+%25283%2529.JPG"
+    },
+    {
+      "foto": "https://factsofindonesia.com/wp-content/uploads/2021/07/cireng.jpg",
+      "nama": "Cireng",
+      "size": "200 Gram",
+      "harga": "15.000",
+      "link": "https://factsofindonesia.com/wp-content/uploads/2021/07/cireng.jpg"
+    }
+  ]
 }
