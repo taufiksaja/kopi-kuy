@@ -1,4 +1,5 @@
 /* Kode * di bawah ini untuk mereset tampilan setiap web browser supaya seragam */
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Domine:wght@400;600&family=Inter:wght@200;400;600;700;900&family=Poppins&family=Silkscreen&display=swap");
 
 * {
   box-sizing: border-box;
@@ -59,7 +60,8 @@ body {
    mendaftarkan semua teks pada body menjadi family Poppins 
    kenapa pada body? karena elemen body membungkus semua elemen dari nav section sampai footer
    */
-  font-family: "Poppins";
+
+  font-family: "Courgette", cursive;
 }
 
 /*

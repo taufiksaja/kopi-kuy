@@ -25,7 +25,14 @@
     <link rel="stylesheet" href="css/style.css" />
     <style>
       /* tulis kode CSS internal di bawah sini */
-
+      @import url("https://fonts.googleapis.com/css2?family=Courgette&family=Domine:wght@400;600&family=Inter:wght@200;400;600;700;900&family=Poppins&family=Silkscreen&display=swap");
+      body {
+        background-image: url("/images/background/bgkopi.png");
+        font-family: "Courgette", cursive;
+      }
+      #baris_produk .card {
+        background-image: url("/images/background/bg-review.svg");
+      }
       /* Batas Akhir penulisan kode CSS internal */
     </style>
   </head>
@@ -86,30 +93,13 @@
           <select class="form-select" id="select_kopi"></select>
 
           <label for="select_kopi">Pilih Jenis Kopi</label>
+          <a href="produk.html" class="btn btn-primary mt-4">Refresh</a>
         </div>
 
         <div
           id="baris_produk"
           class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 text-center mt-5"
-        >
-          <div class="col mb-4">
-            <div class="card">
-              <img
-                src="images/produk/product_capuchino.jpg"
-                class="card-img-top"
-                alt="..."
-              />
-              <div class="card-body">
-                <h5 class="card-title">Cappuccino</h5>
-                <div class="row hargasize my-4">
-                  <div class="col">150ml</div>
-                  <div class="col">15.000</div>
-                </div>
-                <a href="#" class="btn btn-success w-100">Beli</a>
-              </div>
-            </div>
-          </div>
-        </div>
+        ></div>
       </div>
     </section>
 
